@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">60dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="fontSizeTitle">30sp</dimen>
+    <dimen name="fontSizeSubTitle">20sp</dimen>
+    <dimen name="fontSizeAddButton">4dp</dimen>
+    <dimen name="fontSizeTxtName">8sp</dimen>
+    <dimen name="fontSizeTxtAuthor">8sp</dimen>
+    <dimen name="fontSizeTxtUrlPoster">8sp</dimen>
+    <dimen name="fontSizeTxtUrlDescription">6sp</dimen>
+    <dimen name="fontSizeLblName">24sp</dimen>
+    <dimen name="fontSizeLblAuthor">10sp</dimen>
+    <dimen name="fontSizeLblText">8sp</dimen>
+    <dimen name="fontSizeLblDescription">12sp</dimen>
+</resources>

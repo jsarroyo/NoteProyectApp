@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Notaapp</string>
+    <string name="name">Joker</string>
+    <string name="author">Todd Phillips</string>
+    <string name="season">1</string>
+    <string name="season_text">Guasón</string>
+    <string name="description">Nota de suspenso y drama psicológico estadounidense de 2019 distribuida por Warner Bros. Pictures y basada en el Joker, personaje de DC Comics.</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main">Notes App</string>
+    <string name="subtitle_activity_main">Lista</string>
+    <string name="subtitle_add_moovie_activity_main">Agregar Nota</string>
+    <string name="title_activity_basic2">Basic</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="txt_moovie_name">Nombre</string>
+    <string name="txt_moovie_author">Autor</string>
+    <string name="txt_movie_url_imagen">Url Poster</string>
+    <string name="txt_main_description">Descripcion</string>
+    <string name="txt_add_moovie_text_button">Agregar</string>
+    <string name="first_fragment_label">first_fragment_label</string>
+    <string name="second_fragment_label">second_fragment_label</string>
+    <string name="add_movie">Agregar Nota</string>
+    <string name="delete_movie">Borrar Nota</string>
+    <string name="imagenposter">imagenPoster</string>
+    <string name="imagenposterbg">imagenposter-bg</string>
+    <string name="borrar_peli">Borrar Nota</string>
+    <string name="msgEmptyFields">Algunos campos no se han completado, verifique por favor!</string>
+    <string name="msgMovieSaved">La Nota ha sido registrada exitosamente</string>
+    <string name="msgDefaultMovieSaved">Notas por defecto se han registrado satisfactoriamente</string>
+    <string name="msgMovieDeleted">La Nota ha sido eliminada exitosamente</string>
+    <string name="notes_title">Titulo</string>
+    <string name="notes_sub_title">Subtitulo</string>
+    <string name="web_url">URL</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Ok</string>
+    <string name="notes_desc">Descripción</string>
+    <string name="httptext">http://</string>
+    <string name="back_text">Atras</string>
+    <string name="confirm_text">Confirmar</string>
+    <string name="get_image">Adjuntar IMG</string>
+    <string name="delete_text">Borrar</string>
+    <string name="more_text">Mas..</string>
+    <string name="msgBackButton">La nota no sufrio cambios.</string>
+</resources>

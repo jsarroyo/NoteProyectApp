@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    >
+
+    <TextView
+        android:id="@+id/etListContentNoteTitle"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="8dp"
+        android:autofillHints=""
+        android:background="@color/colorPrimaryDark"
+        android:ellipsize="end"
+        android:focusableInTouchMode="false"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/notes_title"
+        android:inputType=""
+        android:maxLines="1"
+        android:padding="20dp"
+        android:textColor="@color/ColorWhite"
+        android:textColorHint="@color/ColorWhite"
+        android:textSize="24sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="10dp" />
+
+    <TextView
+        android:id="@+id/etListContentNoteDescription"
+        android:layout_width="match_parent"
+        android:layout_height="184dp"
+        android:layout_margin="10dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:autofillHints=""
+        android:background="@color/colorPrimaryDark"
+        android:ellipsize="end"
+        android:focusableInTouchMode="false"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/notes_sub_title"
+        android:inputType=""
+        android:maxLines="3"
+        android:padding="20dp"
+        android:textColor="@color/ColorWhite"
+        android:textColorHint="@color/ColorWhite"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/etListContentNoteTitle"
+        app:layout_constraintStart_toStartOf="@+id/etListContentNoteTitle"
+        app:layout_constraintTop_toBottomOf="@+id/etListContentNoteTitle" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
